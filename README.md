@@ -42,17 +42,30 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 **Optional Nice-to-have Stories**
 
 * Favorites - User can save books to favorites to buy later 
+* About us page
+* Help 
 * Past bought books orders
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
-
+* Register for account
+   * Login
+* Login 
+   * Confirm email address
+* Feed Screen
+   * Can see guide post with the example of a posted picture of book
+   * Click on guide for onboarding
+   * Search for genres of book or name of books to buy/borrow or compose a post to sell a book
+   * Get notify if you get the free book
+* Free Book Screen
+   * Scroll through for free books and apply to get one 
+   * See the list of user name who has requested for the free book you are giving away
+* Profile Screen
+   * Make Profile by going into creating profile page
+   * Change username (optional)
+* Setting Screen
+   * Logout
+ 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
@@ -63,12 +76,12 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Register for account
+   * Login
+* Login 
+   * 
+   * 
+   * 
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
