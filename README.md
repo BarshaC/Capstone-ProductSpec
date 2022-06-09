@@ -20,7 +20,7 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** LifeStyle/Educational
-- **Mobile:** App can be used on mobile or can also be used on web like most of the apps. Same features on both mobile or web.
+- **Mobile:** App can be used on mobile or can also be used on web like most of the apps. Similar features on mobile and web. Mobile has more features.
 - **Story:** User post picture of the book for sell, borrow. Also, the user can see posts of other people they are following. 
 - **Market:** Can be used by people who can buy or is willing to sell used books.For security reasons, the person should be of certain age category.
 - **Habit:** User can use to often or unoften depending on reading habits of a person. 
