@@ -15,16 +15,16 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-ThriftBooks can be useful for people who want to sell, rent, borrow, buy used books.
+ThriftBooks can be useful for people who want to sell, borrow, buy used books. Users can post new books and keep it either for sell or renting/ borrowing. People can follow each other and see if the people they are following have posted a new book. App is mainly targeted for the people who generally love reading books.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** 
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Educational/Lifestyle
+- **Mobile:** App can be used on mobile or can also be used on web like most of the apps. Same features on both mobile or web.
+- **Story:** User post picture of the book for sell, borrow. Also, the user can see posts of other people on following list. 
+- **Market:** Can be used by people who can buy or is willing to sell used books.For security reasons, the person should be of certain age category.
+- **Habit:** User can use to often or unoften depending on reading habits of a person. 
+- **Scope:** People can use it as a platform to sell, give away or buy used books easily. 
 
 ## Product Spec
 
@@ -32,8 +32,7 @@ ThriftBooks can be useful for people who want to sell, rent, borrow, buy used bo
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* 
 
 **Optional Nice-to-have Stories**
 
