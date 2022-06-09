@@ -5,7 +5,7 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE - ThriftBooks
+# APP_NAME -  ThriftBooks
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -19,7 +19,7 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:** Educational/Lifestyle
+- **Category:** LifeStyle/Educational
 - **Mobile:** App can be used on mobile or can also be used on web like most of the apps. Same features on both mobile or web.
 - **Story:** User post picture of the book for sell, borrow. Also, the user can see posts of other people they are following. 
 - **Market:** Can be used by people who can buy or is willing to sell used books.For security reasons, the person should be of certain age category.
@@ -89,13 +89,16 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 * Search Bar
    * Get Results for books under two category (for sale, for borrow)
      * For Borrow
-       * Top result of book for generous book aka with the most followers 
+       * Top result of book for generous book aka with the most followers and books available in the nearest location
        * Go to the about page of the book 
-       * Get book 
+       * Instant messaging to ask more about the book
+       * Borrow book 
        * Get waitlisted if book not available (Optional)
-     * For sale (Optional)
-       * Top result of book for good booksellers aka with the most followers 
+     * For sale 
+       * Top result of book for good booksellers aka with the most followers and books available in the nearest location
        * Go to the about page of the book
+       * Message to ask more about the book 
+       * Buy the book
        * Get waitlisted if book not available (Optional)
  * FreeBook Notifier 
    * Get post if someone has posted giveaway (free book) based on the genre you have chosen 
