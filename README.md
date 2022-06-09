@@ -32,12 +32,17 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 
 **Required Must-have Stories**
 
-* 
+* User register for an account and log in to post books.
+* User picks their favorite genre of book - fictional/non fictional/ educational
+* Compose page to post their books 
+* Timeline page to show other accounts they are following
+* Has user profile for each user 
+* Settings (General, Carts, Orders and Payment methods, Logout)
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Favorites - User can save books to favorites to buy later 
+* Past bought books orders
 
 ### 2. Screen Archetypes
 
