@@ -1,6 +1,6 @@
 # Capstone-ProductSpec
 
-#App 1
+#App 1 - ThriftBooks
 
 Original App Design Project - README Template
 ===
@@ -15,13 +15,13 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-ThriftBooks can be useful for people who want to sell, borrow, buy used books. Users can post new books and keep it either for sell or renting/ borrowing. People can follow each other and see if the people they are following have posted a new book. App is mainly targeted for the people who generally love reading books.
+ThriftBooks can be useful for people who want to sell, borrow, buy used books. Users can post new books and keep it either for sell or borrowing. People can follow each other and see if the people they are following have posted a new book. App is mainly targeted for the people who generally love reading books and like sharing books.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Educational/Lifestyle
 - **Mobile:** App can be used on mobile or can also be used on web like most of the apps. Same features on both mobile or web.
-- **Story:** User post picture of the book for sell, borrow. Also, the user can see posts of other people on following list. 
+- **Story:** User post picture of the book for sell, borrow. Also, the user can see posts of other people they are following. 
 - **Market:** Can be used by people who can buy or is willing to sell used books.For security reasons, the person should be of certain age category.
 - **Habit:** User can use to often or unoften depending on reading habits of a person. 
 - **Scope:** People can use it as a platform to sell, give away or buy used books easily. 
@@ -35,9 +35,10 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 * User register for an account and log in to post books.
 * User picks their favorite genre of book - fictional/non fictional/ educational
 * Compose page to post their books 
-* Timeline page to show other accounts they are following
+* User can take picture of book and write all requirements and post it.
+* Stream page to show other accounts they are following
 * Has user profile for each user 
-* Settings (General, Carts, Orders and Payment methods, Logout)
+* Settings (General, Logout) --- (Carts, Orders and Payment methods - Optional)
 
 **Optional Nice-to-have Stories**
 
@@ -55,8 +56,9 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 * Stream
    * Can see guide post with the example of a posted picture of book (first time user)
    * Click on guide for onboarding (first time user)
-   * Search for genres of book or name of books to buy/borrow or compose a post to sell a book
-   * Get notify if you get the free book
+   * Search for genres of book or name of books to buy/borrow 
+   * Compose a post to sell a book
+   * Get notify if you get the free book on FreeBook Notifier Screen
 * Free Book Screen
    * Scroll through for free books and apply to get one 
    * See the list of user name who has requested for the free book you are giving away
@@ -72,7 +74,7 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 
 * Stream (main screen)
 * Profile
-* FreeBook notifier screen
+* FreeBook Notifier Screen
 * Setting
 
 **Flow Navigation** (Screen to Screen)
@@ -86,15 +88,18 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
    * Search for book/genre/following 
 * Search Bar
    * Get Results for books under two category (for sale, for borrow)
-     * For sale
-       * Top result of book for good booksellers aka with the most followers 
-       * Go to the about page of the book
-       * Get waitlisted if book not available
      * For Borrow
        * Top result of book for generous book aka with the most followers 
        * Go to the about page of the book 
        * Get book 
-       * Get waitlisted if book not available
+       * Get waitlisted if book not available (Optional)
+     * For sale (Optional)
+       * Top result of book for good booksellers aka with the most followers 
+       * Go to the about page of the book
+       * Get waitlisted if book not available (Optional)
+ * FreeBook Notifier 
+   * Get post if someone has posted giveaway (free book) based on the genre you have chosen 
+   * Posts are catgorized according to three main genres - Fiction/Non-fiction/Educational(Textbooks)
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
