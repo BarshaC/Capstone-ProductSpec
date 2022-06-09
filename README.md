@@ -52,9 +52,9 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
    * Login
 * Login 
    * Confirm email address
-* Feed Screen
-   * Can see guide post with the example of a posted picture of book
-   * Click on guide for onboarding
+* Stream
+   * Can see guide post with the example of a posted picture of book (first time user)
+   * Click on guide for onboarding (first time user)
    * Search for genres of book or name of books to buy/borrow or compose a post to sell a book
    * Get notify if you get the free book
 * Free Book Screen
@@ -70,19 +70,31 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Stream (main screen)
+* Profile
+* FreeBook notifier screen
+* Setting
 
 **Flow Navigation** (Screen to Screen)
 
-* Register for account
+* Guided to Login page
+   * Register for a account in case user doesn't have 
+* Register
    * Login
-* Login 
-   * 
-   * 
-   * 
-
+* Login
+   * Few the Stream
+   * Search for book/genre/following 
+* Search Bar
+   * Get Results for books under two category (for sale, for borrow)
+     * For sale
+       * Top result of book for good booksellers aka with the most followers 
+       * Go to the about page of the book
+       * Get waitlisted if book not available
+     * For Borrow
+       * Top result of book for generous book aka with the most followers 
+       * Go to the about page of the book 
+       * Get book 
+       * Get waitlisted if book not available
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
