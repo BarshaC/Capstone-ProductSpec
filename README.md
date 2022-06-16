@@ -115,6 +115,11 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 [This section will be completed in Unit 9]
 ### Models
 [Add table of models]
+<img src="BookSchema.png" width=400>
+<img src="PostSchema.png" width=400>
+<img src="wireframe.png" width=400>
+<img src="schemaFriends.png" width=600>
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
