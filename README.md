@@ -105,7 +105,7 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
    * Posts are catgorized according to three main genres - Fiction/Non-fiction/Educational(Textbooks)
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="wireframe.jpeg" width=600>
+<img src="wireframe.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
