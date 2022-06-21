@@ -32,7 +32,7 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 
 **Required Must-have Stories**
 
-* User register for an account and log in to post books.
+* User register for an account and log in to post books. (Optional - login/Sign up using Facebook SDK)
 * User picks their favorite genre of book - fictional/non fictional/ educational
 * Compose page to post their books 
 * User can take picture of book and write all requirements and post it.
@@ -115,12 +115,29 @@ ThriftBooks can be useful for people who want to sell, borrow, buy used books. U
 [This section will be completed in Unit 9]
 ### Models
 [Add table of models]
-<img src="BookSchema.png" width=400>
+<img src="BookSchema_.png" width=400>
 <img src="PostSchema.png" width=400>
 <img src="userSchema.png" width=400>
 <img src="schemaFriends.png" width=400>
 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+*  Login Screen
+   * (Read/GET) Get user information based on login information
+*  Sign Up Screen
+   * (Create/POST) Create a new user object
+*  Compose Book
+   * (Create/POST) Create a new Book object
+*  Profile Screen
+   * (Read/GET) Query logged in user object
+   * Read/GET) Query books posted by Book object
+*  Stream Screen (Home Screen)
+   * (Read/GET) List out logged in user's Books based on the fav genre
+   * (Create/POST) Go to Compose book and create book
+   * (Delete/POST) Delete the book posted 
+- Using https://www.back4app.com/ for Parse
+* APIs that might be useful
+  * Google Books API https://developers.google.com/books/docs/overview
+  * Google Maps API https://developers.google.com/maps
+* SDK that might be useful for login/Signup
+  * Login with Facebook https://developers.facebook.com/docs/facebook-login/android/
+  * Sign up using Instagram https://www.back4app.com/docs/platform/instagram-oauth-tutorial
